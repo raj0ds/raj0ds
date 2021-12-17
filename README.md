@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [knottyanand.blogspot.com](knottyanand.blogspot.com)
 
-- 💬 Ask me about **Data Visualization, Data Analysis, Web Scraping, Machine Learning**
+- 💬 Ask me about **Data Visualization, Data Analysis, Web Scraping, Machine Learning, SQL**
 
 - 📫 How to reach me **rajeevanand840@gmail.com**
 
