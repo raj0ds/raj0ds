@@ -35,13 +35,8 @@
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/a8150204425482de64148fd6dd129763ee7500bb/python.png" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-<!--     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/2x/c-programming.png" height=50px/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://wordpress.com/"><img src="https://img.icons8.com/plasticine/2x/react.png" height=50px /></a>
+    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mach.png" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mongo.png" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/sql.jpeg" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/doc.png" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/download.png" width="40" height="40"/> </a>
 </p>
 
 
@@ -58,7 +53,7 @@
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj0ds&show_icons=true&theme=radical) <a href="https://github.com/raj0ds/github-readme-stats"><img alt="raj0ds Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj0ds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj0ds&show_icons=true&theme=radical) <a href="https://github.com/raj0ds/github-readme-stats"><img alt="raj0ds Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj0ds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj0ds&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
