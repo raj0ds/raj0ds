@@ -22,7 +22,7 @@
 - 🌱 I’m currently working as **Data Analyst** at askfundu.com
 - 👯 I’m looking to collaborate on open source
 - 📝 I regularly write articles on [knottyanand.blogspot.com](knottyanand.blogspot.com)
-- ✍ You can find my Portfolio here [Portfolio]("") 
+- ✍ You can find my Portfolio here [Portfolio]
 - 💬 Ask me about **Data Visualization, Data Analysis, Web Scraping, Machine Learning, SQL**
 - 📫 How to reach me **rajeevanand840@gmail.com**
  
