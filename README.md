@@ -34,9 +34,9 @@
 
 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/a8150204425482de64148fd6dd129763ee7500bb/python.png" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mach.png" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mongo.png" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/sql.jpeg" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/doc.png" width="40" height="40"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/download.png" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/a8150204425482de64148fd6dd129763ee7500bb/python.png" width="60" height="60"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mach.png" width="60" height="60"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mongo.png" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/sql.jpeg" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/doc.png" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/download.png" width="60" height="60"/> </a>
 </p>
 
 
