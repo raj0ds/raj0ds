@@ -62,5 +62,5 @@
 
 
 
-[resume]:https://github.com/raj0ds/raj0ds/blob/6c462d827be1df3a38bc949b1aeb95bd025759a5/resume%20for%20github.pdf
+[resume]:https://drive.google.com/file/d/1MMEpiD6mLUU2OzHZXkZ_QArnQaSDZgSc/view?usp=sharing
 [Portfolio]:https://monumental-horse-2e32d2.netlify.app/
