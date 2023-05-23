@@ -57,13 +57,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="mailto:ashwininagargoje703@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Ashwininagargoje703"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/919356196474"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/ashwini-nagargoje-259b5122b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href=""><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<!-- 	<a href=""><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
+	<a href="mailto:rajeevanand840@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/raj0ds"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rajeev-anand-0304/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br/>
@@ -72,9 +68,9 @@
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwininagargoje703&show_icons=true&theme=radical) <a href="https://github.com/Ashwininagargoje703/github-readme-stats"><img alt="Ashwininagargoje703 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwininagargoje703&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj0ds&show_icons=true&theme=radical) <a href="https://github.com/raj0ds/github-readme-stats"><img alt="raj0ds Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj0ds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwininagargoje703&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj0ds&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 
