@@ -18,7 +18,7 @@
 
 <h3>About me :- </h3>
 
-- ✍ You can find my resume here [Resume]("")
+- ✍ You can find my resume here [Resume]
 - 🌱 I’m currently working as **Data Analyst** at askfundu.com
 - 👯 I’m looking to collaborate on open source
 - 📝 I regularly write articles on [knottyanand.blogspot.com](knottyanand.blogspot.com)
@@ -59,19 +59,8 @@
 <br>
 
 
-<!--  ### Lets connect through:  -->
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-
- <a href="https://www.linkedin.com/in/ashwini-nagargoje-259b5122b/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://th.bing.com/th/id/R.3f7189662f19f8318fc75252deee723a?rik=Qa956Np1tp8Zcg&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fTwitter-Logo.png&ehk=6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%2bpULA%3d&risl=&pid=ImgRaw&r=0"
-      alt="adampithewan" height="30" width="40" /></a>
-</p> 
- -->
 
 
-[resume]:https://drive.google.com/drive/folders/1GHjBaSgCKpSB73A50-bNVYulySYCpWNx
+
+[resume]:https://github.com/raj0ds/raj0ds/blob/6c462d827be1df3a38bc949b1aeb95bd025759a5/resume%20for%20github.pdf
 [Portfolio]:https://monumental-horse-2e32d2.netlify.app/
