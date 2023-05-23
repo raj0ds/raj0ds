@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Anand</h1>
-<h3 align="center">Trying to get an internship/Fresher job in Data Science</h3>
+<h3 align="center">Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj0ds&label=Profile%20views&color=0e75b6&style=flat" alt="raj0ds" /> </p>
 
