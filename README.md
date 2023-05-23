@@ -14,7 +14,7 @@
 	<a href = "https://commits.top/india.html" target="_blank">
 	</a>
 </p> -->
-<img align="right" alt="GIF" src="https://komarev.com/ghpvc/?username=raj0ds&label=Profile%20views&color=0e75b6&style=flat" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/raj0ds/raj0ds/blob/c6eddc9f5be0777030097df74d67ece24d2faae8/raj0ds.gif" width="500" height="320" />
 
 <h3>About me :- </h3>
 
