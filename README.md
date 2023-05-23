@@ -63,4 +63,4 @@
 
 
 [resume]:https://drive.google.com/file/d/1MMEpiD6mLUU2OzHZXkZ_QArnQaSDZgSc/view?usp=sharing
-[Portfolio]:https://monumental-horse-2e32d2.netlify.app/
+[Portfolio]:https://raj0ds.github.io/
