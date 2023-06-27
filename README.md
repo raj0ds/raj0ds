@@ -41,6 +41,9 @@
 	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-numpy-480.svg" width="60" height="60"/> </a>
 	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-pandas-480.svg" width="60" height="60"/> </a>
 	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/Ai.png" width="60" height="60"/> </a>
+ <a> href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/1a5b53a90aa61720232e86be4c3d6520855b4155/pinecone-logo.png" width="60" height="60"/></a>
+ <a> href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/1a5b53a90aa61720232e86be4c3d6520855b4155/OIP.jpeg" width="60" height="60"/></a>
+ 
 	
 </p>
 
