@@ -69,4 +69,4 @@
 
 
 [resume]:https://drive.google.com/file/d/1MMEpiD6mLUU2OzHZXkZ_QArnQaSDZgSc/view?usp=sharing
-[Portfolio]:[https://rajeeva703.pythonanywhere.com/]
+[Portfolio]:https://rajeeva703.pythonanywhere.com/
