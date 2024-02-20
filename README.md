@@ -7,14 +7,25 @@
  <br>
  Observant and detail-oriented experiencerd data analyst with a specialization in python/ml.
 <!-- <br> -->
- <span align="left"><h3>Profile Views :-</h3><img src="http://hits.dwyl.com/raj0ds/ABSphreak.svg"></span> 
+ <span align="left"><h3>Profile Views :-</h3> <!--<img src="http://hits.dwyl.com/raj0ds/ABSphreak.svg"></span> --> 
 
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=raj0ds&label=Profile%20views&color=0e75b6&style=plastic" alt="raj0ds" /> 
 	<a href = "https://commits.top/india.html" target="_blank">
 	</a>
 </p> -->
-<img align="right" alt="GIF" src="https://github.com/raj0ds/raj0ds/blob/19da15a3827ac0da373a311010ae9b166735f370/giphy.gif" width="500" height="320" />
+<!--<img align="right" alt="GIF" src="https://github.com/raj0ds/raj0ds/blob/19da15a3827ac0da373a311010ae9b166735f370/giphy.gif" width="500" height="320" />-->
+
+<!--![Visitor Count](https://profile-counter.glitch.me/raj0ds/count.svg)-->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=raj0ds&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=87566167)
+
 
 <h3>About me :- </h3>
 
