@@ -21,10 +21,10 @@
     <img src="https://komarev.com/ghpvc/?username=raj0ds&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
+<!--[Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/raj0ds
 
-![](https://hit.yhype.me/github/profile?user_id=87566167)
+![](https://hit.yhype.me/github/profile?user_id=87566167) -->
 
 
 <h3>About me :- </h3>
