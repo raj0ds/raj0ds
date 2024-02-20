@@ -17,6 +17,7 @@
 <!--<img align="right" alt="GIF" src="https://github.com/raj0ds/raj0ds/blob/19da15a3827ac0da373a311010ae9b166735f370/giphy.gif" width="500" height="320" />-->
 
 <!--![Visitor Count](https://profile-counter.glitch.me/raj0ds/count.svg)-->
+<br>
 <a href="https://github.com/raj0ds">
     <img src="https://komarev.com/ghpvc/?username=raj0ds&style=for-the-badge">
 </a>
