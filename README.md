@@ -33,7 +33,7 @@
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently working as **Data Analyst** at askfundu.com
 - 👯 I’m looking to collaborate on open source
-- 📝 I regularly write articles on [knottyanand.blogspot.com](knottyanand.blogspot.com)
+- 📝 I regularly write articles on [knottyanand.blogspot.com](https://knottyanand.blogspot.com/)
 - ✍ You can find my Portfolio here [Portfolio]
 - 💬 Ask me about **Data Visualization, Data Analysis, Web Scraping, Machine Learning, SQL, AI**
 - 📫 How to reach me **rajeevanand840@gmail.com**
