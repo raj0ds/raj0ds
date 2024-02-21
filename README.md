@@ -3,9 +3,9 @@
 
 <h3 align="center">Data Engineer🌟.</h3>
 <br>
- I recently got post-graduate diploma in Computer Applications from Indira Gandhi National Open University, New Delhi
+Seasoned Data Engineer with a robust two-year track record, specializing in an array of technologies such as Python, ML, AI,
  <br>
- Observant and detail-oriented experiencerd data analyst with a specialization in python/ml.
+Prompt Engineering, SQL, POWER BI, and GEN AI..
 <!-- <br> -->
  <!-- <span align="left"><h3>Profile Views :-</h3> <img src="http://hits.dwyl.com/raj0ds/ABSphreak.svg"></span> -->
 
