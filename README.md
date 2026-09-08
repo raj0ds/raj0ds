@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Rajeev Anand — Data & AI Lead at VCreaTek. Agentic AI and FHIR ePI. 400K records a year, 75% less API spend, 94% fewer tokens." src="assets/banner-dark.svg">
+  <img alt="Rajeev Anand — Data & AI Lead at VCreaTek and ARDRA. Focus: agentic AI and FHIR ePI. 15+ systems in production across FMCG, pharma and govtech." src="assets/banner-dark.svg">
 </picture>
 
 ### [→ Full portfolio](https://rajeeva703.pythonanywhere.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rajeev-anand-0304/) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/rajeev-anand.a2c19c5c/badges) &nbsp;·&nbsp; [Writing](https://knottyanand.blogspot.com/) &nbsp;·&nbsp; [Email](mailto:rajeevanand840@gmail.com)
@@ -85,7 +85,7 @@ India.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sango-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/sango-light.svg">
-  <img alt="Sango Sathi: a user starts it by typing Hi or by giving a missed call. Speech is transcribed, translated, answered by Meta AI over district knowledge, translated back and spoken, returning a list of nearby places and then a map with public contact details for the one chosen." src="assets/sango-dark.svg">
+  <img alt="Sango Sathi architecture: a WhatsApp message or a missed call starts it. Speech is transcribed and translated, Meta AI classifies intent, and the query routes into six district flows — banks, hospitals, police, tourism, transport, schemes — each returning a list then category-specific detail such as a map pin, a public phone number, the 112 helpline, timetables or scheme eligibility, before the answer is translated back and spoken." src="assets/sango-dark.svg">
 </picture>
 
 Ask where the nearest HDFC branch is and you get the branches, then pick one and get
