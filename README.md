@@ -106,9 +106,11 @@ understood. Every one of those decisions removes a reason someone would have giv
 | | |
 |---|---|
 | **Core** | Python · SQL · FastAPI · Docker · Kubernetes |
-| **AI** | Azure OpenAI · agentic architectures · MCP · NLP · scikit-learn |
+| **AI** | Azure OpenAI · Meta AI · agentic architectures · MCP · NLP · scikit-learn |
+| **Conversational** | WhatsApp Business · speech-to-text · text-to-speech · translation |
+| **Documents** | Azure Document Intelligence · FHIR R5 · ePI |
 | **Data** | Databricks · Azure SQL · Azure Blob · pandas |
-| **Standards** | FHIR R5 · ePI · OAuth |
+| **Platform** | Kubernetes · OAuth · Azure Blob → FastAPI → Azure SQL caching |
 
 ## Track
 
