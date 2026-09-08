@@ -7,7 +7,7 @@
 ### [→ Full portfolio](https://rajeeva703.pythonanywhere.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rajeev-anand-0304/) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/rajeev-anand.a2c19c5c/badges) &nbsp;·&nbsp; [Writing](https://knottyanand.blogspot.com/) &nbsp;·&nbsp; [Email](mailto:rajeevanand840@gmail.com)
 
 I lead **ARDRA** at VCreaTek — the applied research unit that turns one-off client AI
-into reusable production patterns. Two systems below are the ones I'd want judged.
+into reusable production patterns. Three systems below are the ones I'd want judged.
 
 ---
 
@@ -78,10 +78,26 @@ not — there is no partial credit with a regulator.
 
 # Sango Sathi
 
-A government-commissioned conversational AI, built and scaled for the whole of
-**Khunti district, Jharkhand** — one of very few AI products deployed at rural
-district scale in India. Built while leading data and AI at askFundu, where the
-binding constraint was never model quality but reach.
+**A public WhatsApp assistant for Khunti district, Jharkhand.** Government
+commissioned, and one of very few AI products deployed at rural district scale in
+India.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sango-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/sango-light.svg">
+  <img alt="Sango Sathi: a user starts it by typing Hi or by giving a missed call. Speech is transcribed, translated, answered by Meta AI over district knowledge, translated back and spoken, returning a list of nearby places and then a map with public contact details for the one chosen." src="assets/sango-dark.svg">
+</picture>
+
+Ask where the nearest HDFC branch is and you get the branches, then pick one and get
+a map with its public contact details. Same for hospitals, police stations, tourism
+and the rest of what a district office knows.
+
+The engineering that matters is all in reach, not in the model. **It runs on WhatsApp,
+so there is no app to install.** **It answers a missed call, so it costs nothing to
+start and needs no typing.** Speech-to-text and text-to-speech on both ends mean
+reading is optional, and translation on both sides of Meta AI means people ask in
+their own language, including regional ones, rather than switching to English to be
+understood. Every one of those decisions removes a reason someone would have given up.
 
 ---
 
