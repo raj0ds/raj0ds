@@ -1,84 +1,98 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Rajeev Anand — Data & AI Lead, VCreaTek" src="assets/banner-light.svg">
+</picture>
 
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rajeev Anand 👨‍💻</h1>
+I build AI systems that survive contact with production — agentic reasoning loops that
+stay inside their guardrails, regulatory pipelines that pass audit, and cost
+architectures that make large-scale LLM work affordable enough to keep running.
 
-<h3 align="center">Data Engineer🌟.</h3>
-<br>
-Seasoned Data Engineer with a robust two-year track record, specializing in an array of technologies such as Python, ML, AI,
- <br>
-Prompt Engineering, SQL, POWER BI, and GEN AI..
-<!-- <br> -->
- <!-- <span align="left"><h3>Profile Views :-</h3> <img src="http://hits.dwyl.com/raj0ds/ABSphreak.svg"></span> -->
+Currently **Data & AI Lead at VCreaTek**, coordinating **ARDRA** — our applied
+research unit for reimagining enterprise workflows through AI, and for turning
+one-off client solutions into reusable production patterns.
 
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=raj0ds&label=Profile%20views&color=0e75b6&style=plastic" alt="raj0ds" /> 
-	<a href = "https://commits.top/india.html" target="_blank">
-	</a>
-</p> -->
-<!--<img align="right" alt="GIF" src="https://github.com/raj0ds/raj0ds/blob/19da15a3827ac0da373a311010ae9b166735f370/giphy.gif" width="500" height="320" />-->
+---
 
-<!--![Visitor Count](https://profile-counter.glitch.me/raj0ds/count.svg)-->
-<br>
-<a href="https://github.com/raj0ds">
-    <img src="https://komarev.com/ghpvc/?username=raj0ds&style=for-the-badge">
-</a>
+## What I build
 
-<!--[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/raj0ds
+**Consumer intelligence at full coverage.**
+An 11-step AI/NLP platform for FMCG consumer feedback, processing **400K+ records a
+year across 50+ brands and 300+ product families**. It replaced sampled review reads
+with 100% coverage. I shaped its agentic evolution: a **6-tool autonomous reasoning
+loop** behind **4 layers of hallucination guardrails**, plus the cost architecture —
+intelligent routing, caching and templated execution paths — that cut **API spend 75%
+and tokens 94%**, which is what made continuous operation viable rather than a pilot.
 
-![](https://hit.yhype.me/github/profile?user_id=87566167) -->
+**Regulatory document AI that has to be right.**
+A production pipeline converting bilingual pharmaceutical PDFs into **FHIR R5 XML
+bundles** for Jordanian market compliance, on Azure Document Intelligence and GPT-4.1.
+An 11-step multilingual processing and QC pipeline across English and Arabic, with
+automated validation and HTML QC reporting for regulatory reviewers. In this domain a
+plausible-looking wrong answer is the failure mode that matters, so the interesting
+engineering is all in validation.
 
+**Conversational AI at rural district scale.**
+Sango Sathi — a government-commissioned chatbot built and scaled for the whole of
+**Khunti district, Jharkhand**, one of the few AI products deployed at rural district
+scale in India. Built while leading data and AI at an early-stage fintech, where the
+constraint was never model quality but accessibility.
 
-<h3>About me :- </h3>
+---
 
-- ✍ You can find my resume here [Resume]
-- 🌱 I’m currently working as **Data Analyst** at askfundu.com
-- 👯 I’m looking to collaborate on open source
-- 📝 I regularly write articles on [knottyanand.blogspot.com](https://knottyanand.blogspot.com/)
-- ✍ You can find my Portfolio here [Portfolio]
-- 💬 Ask me about **Data Visualization, Data Analysis, Web Scraping, Machine Learning, SQL, AI**
-- 📫 How to reach me **rajeevanand840@gmail.com**
- 
+## How the consumer intelligence platform fits together
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img alt="Pipeline: ingest, TF-IDF and K-Means smart sampling, concurrent aspect extraction on Azure OpenAI, tiered schema, FastAPI and Azure SQL serving, with a 6-tool agentic layer inside 4 guardrail layers" src="assets/pipeline-light.svg">
+</picture>
 
+The two numbers that matter are downstream of two decisions. **Smart sampling**
+(TF-IDF + K-Means) decides what actually needs an LLM call. The **tiered schema**
+decides how much structure each call has to return. Concurrency via
+`ThreadPoolExecutor` and an Azure Blob → FastAPI → Azure SQL caching layer do the
+rest. Cost reduction at this scale is an architecture problem, not a prompt problem.
 
-### 🚀 My Tech Stack:
+---
 
+## Stack
 
-<p align="left">
-    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-python-480.svg" width="60" height="60"/> </a>
-	    <a href="https://www.r-project.org/" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/R_logo.svg.png" width="60" height="60"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mach.png" width="60" height="60"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/mongo.png" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/0d2ce16d1af0e5622707549f85f266d3b3e79e1a/sql.jpeg" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-docker-windows-11-color-120.png" width="60" height="60"/> </a>    <a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-flask-512.svg" width="60" height="60"/> </a>
-	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-numpy-480.svg" width="60" height="60"/> </a>
-	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/icons8-pandas-480.svg" width="60" height="60"/> </a>
-	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/152ae5a11a3836f7fbdf4b50862fce598c5f2b91/Ai.png" width="60" height="60"/> </a>
-	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/1a5b53a90aa61720232e86be4c3d6520855b4155/pinecone-logo.png" width="60" height="60"/> </a>
-	<a href="" target="_blank"> <img src="https://github.com/raj0ds/raj0ds/blob/1a5b53a90aa61720232e86be4c3d6520855b4155/OIP.jpeg" width="60" height="60"/> </a>
-</p>
+| | |
+|---|---|
+| **Languages** | Python · SQL |
+| **AI / ML** | Azure OpenAI · LLM engineering · agentic architectures · MCP · NLP · scikit-learn |
+| **Data** | Databricks · Azure SQL · Azure Blob · pandas · TF-IDF / K-Means |
+| **Platform** | FastAPI · Kubernetes · Docker · OAuth · Azure Document Intelligence |
+| **Standards** | FHIR R5 · ePI |
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="mailto:rajeevanand840@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/raj0ds"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rajeev-anand-0304/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+## Background
 
-<br/>
+**Team Lead, VCreaTek** — Oct 2025 to present. Coordinating ARDRA; established the
+reusable engineering patterns and cost-efficient LLM pipeline design now standard
+across the consulting practice. Promoted in 22 months by owning delivery end to end,
+from pipeline design through agentic architecture to client-facing presentation.
 
+**Data Engineer, VCreaTek** — Jan 2024 to Oct 2025. Built the platform's core
+processing infrastructure and containerised it for Kubernetes.
 
-### 📊 My Github Stats:
-<br/>
+**Data Scientist, Kenvue** (client engagement via VCreaTek) — Jul 2024 to present.
 
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj0ds&show_icons=true&theme=radical) <a href="https://github.com/raj0ds/github-readme-stats"><img alt="raj0ds Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj0ds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+**Core Member & Data Lead, askFundu** — Mar 2022 to Jan 2024. Owned the data and AI
+stack across fintech and edtech verticals at an early-stage startup.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj0ds&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+MCA, IGNOU · BSc Chemistry, Veer Kunwar Singh University · IBM Data Science
+Specialization. I came to AI from analytical chemistry, which is a decent training in
+not trusting a result you cannot reproduce.
 
+---
 
+## Elsewhere
 
-
-
-[resume]:https://drive.google.com/file/d/1MMEpiD6mLUU2OzHZXkZ_QArnQaSDZgSc/view?usp=sharing
-[Portfolio]:https://rajeeva703.pythonanywhere.com/
+[LinkedIn](https://www.linkedin.com/in/rajeev-anand-0304/) ·
+[Credly badges](https://www.credly.com/users/rajeev-anand.a2c19c5c/badges) ·
+[HackerRank](https://www.hackerrank.com/rajeevanand840) ·
+[Writing](https://knottyanand.blogspot.com/) ·
+[rajeevanand840@gmail.com](mailto:rajeevanand840@gmail.com)
