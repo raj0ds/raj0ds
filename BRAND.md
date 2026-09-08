@@ -1,87 +1,67 @@
-# Personal brand notes
+# Brand notes
 
-Kept here so the profile, slides and any future site stay consistent.
+**The GitHub profile follows the portfolio, not the other way round.** The palette,
+type roles and signature devices below are lifted from `rajeev_portfolio/static/css/style.css`
+so the two never drift. If the portfolio's tokens change, re-derive these.
 
-## The idea
+## Palette (both taken from the portfolio's two themes)
 
-The work is turning **unstructured language into validated structure** — consumer
-complaints into scored aspects, bilingual pharma PDFs into FHIR R5 bundles. The
-through-line of the career, chemistry included, is provable correctness.
-
-So the visual world is a **validated record**: a certificate of analysis, a
-regulatory filing. Not a developer banner. There is no logo mark, because the
-subject matter is documents, and a document does not need a badge.
-
-The banner reads left to right as **who → what → result**: identity, then one real
-record being transformed, then the outcome that transformation produced. The graphic
-explains the work rather than decorating it.
-
-## Palette — cool document
-
-| Role | Light | Dark |
+| Role | Dark | Light |
 |---|---|---|
-| Ground | `#E9EBEE` | `#12151A` |
-| Ink | `#15181D` | `#E9EBEE` |
-| Secondary ink | `#3A4150` | `#AEB6C4` |
-| Muted / field labels | `#697180` | `#868FA0` |
-| Cobalt | `#2440C8` | `#8AA0FF` |
-| Hairline | `#C6CAD2` | `#2C323C` |
+| Ground | `#020810` | `#f8fafc` |
+| Surface | `#0a1225` | `#ffffff` |
+| Surface raised | `#0f1a30` | `#f1f5f9` |
+| Border | `#1a2d4a` | `#e2e8f0` |
+| Border strong | `#243a5c` | `#cbd5e1` |
+| Cyan (primary) | `#00e5ff` | `#0891b2` |
+| Violet | `#7c3aed` | `#6d28d9` |
+| Green | `#10b981` | `#059669` |
+| Amber | `#f59e0b` | `#d97706` |
+| Text | `#e2e8f0` | `#0f172a` |
+| Text muted | `#94a3b8` | `#475569` |
+| Muted | `#475569` | `#94a3b8` |
 
-**Cobalt is the only colour, and it is never decoration.** It marks exactly three
-things: the rule under the name, validation (the check and "schema valid"), and the
-one or two lines that state a real decision. Everything else is ink, muted ink, or a
-hairline. The moment cobalt appears on something that is not structural, the design
-starts to look like every other profile.
-
-A cool grey ground rather than warm cream is deliberate: cream-plus-terracotta is
-currently the most recognisable AI-generated look, and near-black-plus-neon is the
-second. This is neither.
+Colour carries meaning and is not decoration: **cyan** = structure and keys,
+**green** = a validated or passing result, **amber** = the decision or the thing that
+got caught, **violet** = storage and identity.
 
 ## Type
 
-Two families, clearly distinct in job:
+The portfolio uses JetBrains Mono, Inter and Space Grotesk. GitHub renders README
+SVGs sandboxed, so **web fonts never load** — these files fall back to
+`Consolas, 'SF Mono', Menlo, monospace` and `'Segoe UI Semibold', 'Segoe UI', sans-serif`.
+Close in spirit, and safe everywhere. Do not add a Google Fonts link to an SVG; it
+fails silently.
 
-- **Georgia** (fallbacks: Iowan Old Style, Palatino Linotype, Palatino, serif) —
-  name, headings, stage names, and the italic lines that carry an argument. A serif
-  is the point: GitHub profiles are uniformly sans, so this reads as considered.
-- **Consolas** (fallbacks: SF Mono, Menlo, DejaVu Sans Mono, monospace) — record
-  fields, figures, stack values. Monospace only where alignment does real work, in
-  table columns and key/value pairs. Never for labels or headings.
+## Signature devices
 
-No web fonts. GitHub renders these SVGs sandboxed, so anything external silently
-fails to load; only system stacks are safe.
+- **The code window** — titlebar with three dots, a filename tab, line numbers,
+  syntax colours. Straight from the portfolio hero; it is the element that makes the
+  profile and the site read as one thing.
+- **The status pill** — green dot, thin border, mono caps.
+- **The gradient name** — cyan → violet on the surname only.
 
-## Structure
+## Diagrams must show, not list
 
-Hairlines and column positions do the organising. No cards, no border radius, no
-shadows, no fills behind content. Columns sit at fixed x positions (72 / 270 / 656 in
-the pipeline table) so the eye tracks down a column as easily as across a row.
+The first version of this profile described the architecture in prose and a table.
+It was text-heavy and said less than a picture would. The rule now: **if a stage can
+be drawn as the thing it does, draw it.**
 
-## Theme handling
+- record volume → a dense field of marks
+- K-Means sampling → real clusters with the chosen representative lit
+- concurrency → parallel lanes, each with a worker
+- token reduction → three bars whose widths *are* the reduction
+- guardrails → gates, with one answer passing and one caught and sent back
 
-Every graphic ships as a light and a dark SVG, chosen with `<picture>` and
-`prefers-color-scheme`. GitHub honours this in READMEs. Never ship one graphic with a
-transparent background — it borrows the reader's theme and the text disappears for
-half the audience.
+Never invent specifics to fill a diagram. The four guardrail gates are unlabelled
+because the real layer names are not known; label them once they are.
 
-## Deliberately avoided
+## Generated, not hand-placed
 
-Animated GIFs, waving-hand emoji, technology icon walls, profile view counters,
-streak cards, gradient headers, tracked-out all-caps eyebrow labels, meta strings
-joined with middle dots, numbered `01 / 02 / 03` markers, and arrows appended to
-link text.
-
-Not because any of these is ugly, but because they appear on every profile
-regardless of subject. Seniority reads as specificity: one real record, two real
-decisions, three real numbers.
-
-## Reviewing changes
-
-These SVGs were first built without ever being looked at, and the result was bad —
-an icon-like mark, 340px of dead space, and four of the five commonest generated-design
-tells. **Render before judging.** Headless Chrome is enough:
+`assets/*.svg` come from the generator scripts. Hand-editing coordinates is how the
+first version ended up with 340px of dead space. Regenerate, then **look at it**:
 
 ```bash
 chrome --headless=new --disable-gpu --hide-scrollbars \
-  --window-size=1200,414 --screenshot=out.png file:///path/to/asset.svg
+  --window-size=1200,360 --screenshot=out.png file:///path/to/asset.svg
 ```
