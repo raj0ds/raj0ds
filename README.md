@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Rajeev Anand — Data & AI Lead, VCreaTek" src="assets/banner-light.svg">
+  <img alt="Rajeev Anand, Data and AI Lead at VCreaTek. Unstructured language in, validated structure out. 75% less API spend, 94% fewer tokens, full coverage." src="assets/banner-light.svg">
 </picture>
 
 I build AI systems that survive contact with production — agentic reasoning loops that
@@ -45,7 +45,7 @@ constraint was never model quality but accessibility.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
-  <img alt="Pipeline: ingest, TF-IDF and K-Means smart sampling, concurrent aspect extraction on Azure OpenAI, tiered schema, FastAPI and Azure SQL serving, with a 6-tool agentic layer inside 4 guardrail layers" src="assets/pipeline-light.svg">
+  <img alt="Specification table of the Elevate pipeline: ingest 400,000 records a year, TF-IDF and K-Means sampling to decide what needs an LLM call, concurrent extraction on Azure OpenAI, a tiered response schema to decide how much structure each call returns, FastAPI and Azure SQL serving, and a 6-tool agentic layer inside four guardrail layers" src="assets/pipeline-light.svg">
 </picture>
 
 The two numbers that matter are downstream of two decisions. **Smart sampling**
